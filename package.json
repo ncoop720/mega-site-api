@@ -15,6 +15,6 @@
     },
     "scripts": {
         "test": "mocha --recursive tests",
-        "dev": "node dev.js"
+        "dev": "nodemon dev.js"
     }
 }
